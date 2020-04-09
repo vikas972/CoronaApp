@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455789868297",
+    "firebase_url": "https://covid-19-852a7.firebaseio.com",
+    "project_id": "covid-19-852a7",
+    "storage_bucket": "covid-19-852a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455789868297:android:b3dcc87654de28946f8fd8",
+        "android_client_info": {
+          "package_name": "com.vikasmaurya.corona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455789868297-glp9ne75l4m1tj4s1kqlpom2c9ssdt15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikasmaurya.corona",
+            "certificate_hash": "71ad46a8b00dd0294ef3b2fab225d193f61dc98e"
+          }
+        },
+        {
+          "client_id": "455789868297-l6ng83f6ums501fj0ra43ijs0d7opctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvFpCBoNXcamrz3t2u5NclhbBcYu45DwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455789868297-l6ng83f6ums501fj0ra43ijs0d7opctu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

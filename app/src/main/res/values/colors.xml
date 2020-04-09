@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0682FF</color>
+    <color name="colorPrimaryDark">#0682FF</color>
+    <color name="colorAccent">#D60551</color>
+    <color name="colorWhite">#FFFFFF</color>
+   <color name="colorBlack">#000000</color>
+    <color name="transperent">#00000000</color>
+    <color name="redColor">#F73F3F</color>
+    <color name="greenColor">#5DE663</color>
+    <color name="yellow_color">#FF5722</color>
+    <color name="critical">#FF8585</color>
+    <color name="orange_color">#F75C2C</color>
+    <color name="activity_background">#232530</color>
+
+</resources>

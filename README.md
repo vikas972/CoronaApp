@@ -54,10 +54,15 @@ Hardware and Software Requirements
 2. chrome Browser
 
 Process Flow
+
 1.Install the android studio and create new project.
+
 2.start the main activity and select all the necessary options.
+
 3.Create the gui and call the api to get all the data in the page.
+
 4.Check all the dependencies and internet access.
+
 5.Build the app and test.
 
 Data Flow Diagram

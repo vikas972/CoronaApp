@@ -24,9 +24,8 @@ This application have various Section.
 
 <p float = "left">
   
-  
-  ![](Images/home.jpg)
-<img src ="https://drive.google.com/file/d/1ucBPC_RiNZ_6W1Axv9oVxctTtxfMaTQ3/view?usp=sharing"  width="290" height="550">
+<img src ="Images/home.jpg"  width="290" height="550">
+<img src ="Images/world.jpg"  width="290" height="550">
 
 
 </p>

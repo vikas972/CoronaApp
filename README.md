@@ -1,6 +1,6 @@
-# Covid19
+# Corona(Covid19)
 
-COVID19 android application to show all statistics about this global pandemic
+CORONA  Android Application which will helps you to know the latest Corona cases in the world as well as in countries. This app contains news features which shows all the current news about Corona also the help line numbers . It also contains statistics in the form of graph. You also can donate using this app.You also can check if you have corona or not. This app's purpose is to make people aware about this Corona virus, so that people can take necessary precautions. 
 
 You can download the application from given link ( <a href="https://drive.google.com/file/d/1PsLqZ8u-iXsW2A-IdIKTwIktOfmasQg3/view?usp=sharing">Download APK</a> ) <br/>
 
@@ -26,7 +26,7 @@ This application have various Section.
   
   
   
-<img src ="https://user-images.githubusercontent.com/20206625/77904845-db6f6300-72a2-11ea-8fa1-a3329d475231.jpg"  width="290" height="550">
+<img src ="https://drive.google.com/file/d/1ucBPC_RiNZ_6W1Axv9oVxctTtxfMaTQ3/view?usp=sharing"  width="290" height="550">
 
 
 </p>

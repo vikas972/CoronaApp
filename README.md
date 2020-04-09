@@ -24,8 +24,15 @@ This application have various Section.
 
 <p float = "left">
   
-<img src ="Images/home.jpg"  width="290" height="550">
-<img src ="Images/world.jpg"  width="290" height="550">
+<img src ="Images/home.jpg"  width="200" height="400">
+<img src ="Images/world.jpg"  width="200" height="400">
+<img src ="Images/country.jpg"  width="200" height="400">
+<img src ="Images/msg.jpg"  width="200" height="400">
+<img src ="Images/news.jpg"  width="200" height="400">
+<img src ="Images/help.jpg"  width="200" height="400">
+<img src ="Images/vis.jpg"  width="200" height="400">
+<img src ="Images/donate.jpg"  width="200" height="400">
+<img src ="Images/check.jpg"  width="200" height="400">
 
 
 </p>

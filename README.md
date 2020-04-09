@@ -21,15 +21,19 @@ This application have various Section.
 -> It has one spinner through which you can search country name to get there respective detail.
 
 3.  News
+
 -> It shows all the latest news about corona.
 
 4. Donate
+
 ->You can donate the amount to help government.
 
 5.Visualise
+
 ->You can see the graph related to corona.
 
 6.HealthCheck
+
 ->You can check your health,answering some questions.
 
 <p float = "left">
@@ -48,3 +52,7 @@ This application have various Section.
 Hardware and Software Requirements
 1. Android Studio(latest version)
 2. chrome Browser
+
+Data Flow Diagram
+
+<img src ="Images/dfg.jpg"  width="200" height="400">

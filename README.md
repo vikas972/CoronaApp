@@ -55,4 +55,4 @@ Hardware and Software Requirements
 
 Data Flow Diagram
 
-<img src ="Images/dfg.jpg"  width="200" height="400">
+<img src ="Images/dfd.jpg"  width="200" height="400">

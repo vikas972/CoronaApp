@@ -1,0 +1,2 @@
+# CoronaApp
+Android Application which will helps you to know the latest Corona cases in the world as well as in country. This app contains news features which shows all the current news about Corona also the help line numbers . It also contains statistics in the form of graph. You also can donate using this app. This app's purpose is to make people aware about this Corona virus, so that people can take necessary precautions.

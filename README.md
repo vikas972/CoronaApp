@@ -2,7 +2,7 @@
 
 CORONA Android Application will help you to know the latest Corona cases in the world as well as in countries. This app contains news features which shows all the current news about Corona also the helpline numbers. It also contains statistics in the form of a graph. You also can donate using this app. You also can check if you have corona or not. This app's purpose is to make people aware of this Coronavirus so that people can take the necessary precautions.
 
-You can download the application from given link ( <a href="https://drive.google.com/file/d/1jyWVqPHt92j1Ts_YAKe5E0GqgkMoSZ_y/view?usp=sharing">Download APK</a> ) <br/>
+You can download the application from given link ( <a href="https://drive.google.com/file/d/166ruGOu5bllMwB5Q9naqrx4gMA79JivB/view?usp=sharing">Download APK</a> ) <br/>
 
 It fetchs live data from <a href="https://corona.lmao.ninja/">https://corona.lmao.ninja/</a>.
 

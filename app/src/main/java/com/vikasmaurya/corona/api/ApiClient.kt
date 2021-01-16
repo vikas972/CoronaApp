@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object ApiClient {
 
-    private val BASE_URL = "https://corona.lmao.ninja/2.0"
+    private val BASE_URL = "https://corona.lmao.ninja/v2/"
 
     private var retrofit: Retrofit? = null
 
